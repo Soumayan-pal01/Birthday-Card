@@ -3,6 +3,4 @@
  
  Screenshot of the Application
  
- 
- 
- ![](Birthday%20card%20Screenshot%201.png)
+ <img src = "
